@@ -6,8 +6,6 @@
 - I am not responsible for any bans or damages to property that may occur through the use of my scripts. Use at your own risk.
 
 # bugfixes & updates
-- None currently
-
 ## Version 1.0.0 (in development)
 - Scane 45% complete
 - Netherwart 0% complete
